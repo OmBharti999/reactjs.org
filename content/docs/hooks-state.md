@@ -1,3 +1,12 @@
+Question-- how to use useState for declaring objects.
+ex- const obj={name: Om
+               add: { Country: India
+                      State: Jharkhand
+                     }
+}
+
+
+
 ---
 id: hooks-state
 title: Using the State Hook
